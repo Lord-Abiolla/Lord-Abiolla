@@ -10,19 +10,11 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am a Software Engineer
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles on [Hashnode]([https://apoorvtyagi.tech/](https://hashnode.com/@LordAbiolla))
+- 📝 I regulary write technical articles on [Hashnode](https://hashnode.com/@LordAbiolla)
 - 💬 Talk to me about JavaScript, Python (neither of these is any insect or animal), Silicon Valley & startups
 - 👯 We can connect to play some games of Chess ♟
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Lord-Abiolla's github stats](https://github-readme-stats.vercel.app/api?username=lord&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lord&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lord&theme=dark)](https://git.io/streak-stats)
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ⏳ **Year Progress:** { ████████████████████████▁▁▁▁▁▁ } 80.84% as on ⏰ 23-Oct-2025
 
