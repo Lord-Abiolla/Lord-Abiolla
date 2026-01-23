@@ -135,9 +135,7 @@
     </a>
 </p>
 
-
-
-<p padding="42px" margin-top="82px">
+<p padding="42px" align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-abiolla&show_icons=true&locale=en" alt="lord-abiolla" />
 </p>
 
