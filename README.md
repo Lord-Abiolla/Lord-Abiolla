@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm James L. Abiolla</h1>
-<h3 align="start">A passionate fullstack developer from Kenya</h3>
+<h1 align="start">Hi 👋, I'm James L. Abiolla</h1>
+<h3 align="start">
+    A passionate Fullstack Developer.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lord-abiolla&label=Profile%20views&color=0e75b6&style=flat" alt="lord-abiolla" /> </p>
+<p align="left" margin-top="72px">
+    <img src="https://komarev.com/ghpvc/?username=lord-abiolla&label=Profile%20views&color=0e75b6&style=flat" alt="lord-abiolla" />
+</p>
 
 
 - 🌱 I’m currently learning **Data Science**
@@ -16,9 +20,13 @@
 
 - 📫 How to reach me **abiollajames@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left" padding="9px" margin-top="32px">
+<h3 align="left" margin-top="72px">
+    Connect with me:
+</h3>
+
+
+<p align="left" padding="9px" margin-top="72px">
     <a href="https://www.linkedin.com/in/abiollajames/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abiollajames/" height="30" width="40" />
     </a>
@@ -33,9 +41,12 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<p align="left" padding="12px">
+<h3 align="left" margin-top="72px">
+    Languages and Tools:
+</h3>
+
+<p align="left" padding="42px">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
@@ -114,16 +125,17 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left" margin-top="72px">
+    Support:
+</h3>
 
-<p>
+<p padding="42px">
     <a href="https://www.buymeacoffee.com/Lord-Abiolla"> 
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lord-Abiolla" />
     </a>
 </p>
-<br><br>
 
-<p>
+<p padding="42px">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-abiolla&show_icons=true&locale=en&layout=compact" alt="lord-abiolla" />
 </p>
 
