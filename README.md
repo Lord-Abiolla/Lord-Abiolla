@@ -126,10 +126,8 @@
 
 
 <h3 align="left" margin-top="72px">
-    Support:
+    GitHub Stats:
 </h3>
-
-
 
 <p padding="42px" margin-top="82px">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-abiolla&show_icons=true&locale=en&layout=compact" alt="lord-abiolla" />
@@ -137,5 +135,15 @@
 
 <p padding="42px" align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-abiolla&show_icons=true&locale=en" alt="lord-abiolla" />
+</p>
+
+
+<h3 align="left" margin-top="72px">
+    Support:
+</h3>
+<p padding="42px">
+    <a href="https://www.buymeacoffee.com/Lord-Abiolla"> 
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lord-Abiolla" />
+    </a>
 </p>
 
