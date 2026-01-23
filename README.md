@@ -139,10 +139,10 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-abiolla&show_icons=true&locale=en&layout=compact" alt="lord-abiolla" />
 </p>
 
-<p>&nbsp;
+<p padding="42px">&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-abiolla&show_icons=true&locale=en" alt="lord-abiolla" />
 </p>
 
-<p>
+<p padding="42px">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lord-abiolla&" alt="lord-abiolla" />
 </p>
