@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left" padding="9px" margin-top="12px">
+<p align="left" padding="9px" margin-top="32px">
     <a href="https://www.linkedin.com/in/abiollajames/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abiollajames/" height="30" width="40" />
     </a>
