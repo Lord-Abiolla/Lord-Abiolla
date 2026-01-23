@@ -129,10 +129,10 @@
     Support:
 </h3>
 
-<p padding="42px">
-    <a href="https://www.buymeacoffee.com/Lord-Abiolla"> 
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lord-Abiolla" />
-    </a>
+
+
+<p padding="42px" margin-top="82px">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-abiolla&show_icons=true&locale=en&layout=compact" alt="lord-abiolla" />
 </p>
 
 <p padding="42px" align="left">
