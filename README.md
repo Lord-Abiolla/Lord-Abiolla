@@ -135,14 +135,11 @@
     </a>
 </p>
 
-<p padding="42px">
+<p padding="42px" margin-top="82px">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-abiolla&show_icons=true&locale=en&layout=compact" alt="lord-abiolla" />
 </p>
 
-<p padding="42px">&nbsp;
+<p padding="42px" margin-top="82px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-abiolla&show_icons=true&locale=en" alt="lord-abiolla" />
 </p>
 
-<p padding="42px">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lord-abiolla&" alt="lord-abiolla" />
-</p>
